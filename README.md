@@ -2,9 +2,9 @@
 
 I am a computational physicist tha uses geospatial data science for climate research at the University of Ariszona. Some highlights:
 
-I pioneered a way to observe 3D winds from infared satellites through a computer vision algorithm that uses concepts from AI (e.g. loss function regularization) Code: [3d-amvs](https://github.com/aouyed/3d-amvs/). You can see me in the [local TV news](https://www.kold.com/2023/04/14/scientists-university-arizona-develop-new-way-measure-wind-improving-future-weather-forecasting/) news to talk about this project, which was also mentioned in the [world economic forum](https://www.weforum.org/stories/2023/04/this-algorithm-could-help-better-predict-extreme-weather-events/). 
+I pioneered a way to observe 3D winds from infrared satellites through a computer vision algorithm that uses concepts from AI (e.g. loss function regularization) Code: [3d-amvs](https://github.com/aouyed/3d-amvs/). You can see me in the [local TV news](https://www.kold.com/2023/04/14/scientists-university-arizona-develop-new-way-measure-wind-improving-future-weather-forecasting/) news to talk about this project, which was also mentioned in the [world economic forum](https://www.weforum.org/stories/2023/04/this-algorithm-could-help-better-predict-extreme-weather-events/). 
 
-I created a monthl.  Codes:
+I created an environmental forecasting model that predicts temperature and precipitation one month ahead using convulutional neural networks. This is an effort for a unded NASA grant that I co-wrote.
 
 Currently looking for new job opportunities. 
 
