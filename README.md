@@ -2,7 +2,9 @@
 
 I am a computational physicist tha uses geospatial data science for climate research at the University of Ariszona. Some highlights:
 
-I use computer vision and AI algorithms to transform satellite data into meaningful physical observations that can be used for forecasting. [My Project](https://github.com/aouyed/3d-amvs/)
+I use computer vision and AI algorithms to transform satellite data into meaningful physical observations that can be used for forecasting, some published papers (with associated peer reviewed paper):
+
+ [3d-amvs](https://github.com/aouyed/3d-amvs/)
 
  I have also worked in monthly forecasting of US climate using  convulutional neural networks that treat weather data as images.  Codes:
 
