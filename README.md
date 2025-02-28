@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a physicist tha uses geospatial data science for climate and remote-sensing research at the University of Arizona. Some highlights:
+I am a physicist tha uses geospatial data science for atmospheric and remote-sensing research at the University of Arizona. Some highlights:
 
 Code: [3d-amvs](https://github.com/aouyed/3d-amvs/)
 Description: A pioneering algorithm to observe global 3D winds (for the first time!) from infrared satellites through a computer vision algorithm that uses concepts from AI (e.g. loss function regularization). You can see me in the [local TV news](https://www.kold.com/2023/04/14/scientists-university-arizona-develop-new-way-measure-wind-improving-future-weather-forecasting/) where I talk about this project, which was also mentioned in the [world economic forum](https://www.weforum.org/stories/2023/04/this-algorithm-could-help-better-predict-extreme-weather-events/). 
