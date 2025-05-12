@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<img src="otating_quiver_low-ezgif.com-optimize.gif" width="400"/>
-
-
+<img src="rotating_quiver_low-ezgif.com-optimize.gif" width="400"/>
 
 I am a physicist tha uses geospatial data science for atmospheric and remote-sensing research at the University of Arizona. Some highlights:
 
